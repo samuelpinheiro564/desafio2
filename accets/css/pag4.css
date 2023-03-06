@@ -1,6 +1,6 @@
 body {
     /* adicionado cor de fundo*/
-background-color: #e5b892;
+background-color: #9fd6ee;
 font-family: 'Franklin Gothic Medium';
 
 }
@@ -25,4 +25,10 @@ button:hover{
 /*"coloquei uma pre animaçao ao passar o mause por cima"*/
 section {
     font-family: Arial;
+}
+/*"troquei as fontes"*/
+button {
+    -webkit-box-shadow: 6px 3px 12px 4px rgba(0, 0, 0, 0.53);
+    -moz-box-shadow: 6px 3px 12px 4px rgba(0, 0, 0, 0.53);
+    box-shadow: 6px 3px 12px 4px rgba(0, 0, 0, 0.53);
 }
