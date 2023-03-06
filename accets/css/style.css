@@ -3,6 +3,7 @@
     margin: 1%;
     margin-left: 1%;
     text-align: center;
+
 }
 
 p {
@@ -15,11 +16,16 @@ p {
 }
 
 body {
-    background-color: #e5b892;
+    background-color: #9fd6ee;
+
 }
 
 section {
-    background-color: white;
+    background-color: #f0e5dc;;
     margin: 1%;
     border-radius: 4%;
+    -webkit-box-shadow: 6px 3px 12px 4px rgba(0, 0, 0, 0.53);
+    -moz-box-shadow: 6px 3px 12px 4px rgba(0, 0, 0, 0.53);
+    box-shadow: 6px 3px 12px 4px rgba(0, 0, 0, 0.53);
+    border-left:  #f270b5 solid 10px;
 }
