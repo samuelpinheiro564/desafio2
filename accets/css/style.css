@@ -34,6 +34,7 @@ div {
 .data {
     flex-direction: row;
     display: flex;
+    opacity:(0.2);
 }
 .names{
     border: none;
@@ -54,6 +55,7 @@ div {
     border: black solid 1px;
     margin: 5px;
     
+    
     border-top: 4%;
     border-bottom: 0;
 
@@ -63,4 +65,7 @@ div {
 img {
     border-radius: 50%;
     border: black solid 1px;
+}
+.coment,p, img {
+    margin: 5px;
 }
