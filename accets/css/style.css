@@ -25,4 +25,13 @@ div {
 }
 .data {
     flex-direction: row;
+    display: flex;
+}
+.names{
+    border: none;
+    display: flex;
+}
+.coment{
+    border: none;
+    display: flex;
 }
