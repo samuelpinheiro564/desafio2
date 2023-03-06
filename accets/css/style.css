@@ -1,0 +1,4 @@
+/*separaçao das section em uma 2 por 3*/
+article  {
+    display: flex;
+}
