@@ -13,7 +13,8 @@ p {
 }
 
 .img {
-    
+    border-radius: 0;
+    border: none;
 }
 
 body {
@@ -21,7 +22,7 @@ body {
 
 }
 
-section {
+.oi {
     background-color: #f0e5dc;
     margin: 1%;
     border-radius: 4%;
@@ -33,7 +34,7 @@ section {
     
 }
 
-section:hover{
+.oi:hover{
     transform: scale(1.05);
 }
 
@@ -75,7 +76,10 @@ article  {
 .idprin {
 
     background-color: #9fd6ee;
-    border: black solid 1px;
+    -webkit-box-shadow: 6px 3px 12px 4px rgba(0, 0, 0, 0.53);
+    -moz-box-shadow: 6px 3px 12px 4px rgba(0, 0, 0, 0.53);
+    box-shadow: 6px 3px 12px 4px rgba(0, 0, 0, 0.53);
+    border-left:  #f270b5 solid 10px;
     border-radius: 6px;
     border-left: #f270b5 solid 10px;
 
@@ -93,6 +97,7 @@ h5 {
     padding: 10px;
     padding-bottom: 3%;
     margin: 5px;
+    bl
     
     
 }
@@ -147,5 +152,9 @@ img {
 }
 #footer5{
     bottom: 0;
+}
+#he {
+
+    top: 0;
 }
 
