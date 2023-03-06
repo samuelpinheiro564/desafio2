@@ -17,3 +17,8 @@ p {
 body {
     background-color: #e5b892;
 }
+
+section {
+    background-color: white;
+    margin: 1%;
+}
