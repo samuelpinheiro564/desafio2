@@ -2,3 +2,17 @@ body{
     margin:0;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+header{
+    background-color:#9fd6ee;
+    color:white;
+    padding: 20px 0;
+    width: 100%;
+    position: fixed;
+    text-align: center;
+}
+#imgg{
+    align-items: center;
+    justify-content: center;
+    max-width: 1200px;
+    margin:0 auto;
+}
