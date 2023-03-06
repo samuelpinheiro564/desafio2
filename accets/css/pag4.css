@@ -6,9 +6,12 @@ background-color: #e5b892;
 article{
 /* centralizando os itens*/
 text-align: center;
+/* centralizando os itens2*/
 margin: 15%;
 }
-form {
-
+button{
+background-color: #ff87c7;
+/*cor de fundo do botão adicionada*/
+color: #5abced;
 }
 /*"etruturação do css"*/
