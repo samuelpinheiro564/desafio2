@@ -28,4 +28,5 @@ section {
     -moz-box-shadow: 6px 3px 12px 4px rgba(0, 0, 0, 0.53);
     box-shadow: 6px 3px 12px 4px rgba(0, 0, 0, 0.53);
     border-left:  #f270b5 solid 10px;
+    width: 33%;
 }
