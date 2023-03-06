@@ -1,0 +1,40 @@
+body {
+    /* adicionado cor de fundo*/
+background-color: #9fd6ee;
+font-family: 'Franklin Gothic Medium';
+
+}
+article{
+/* centralizando os itens*/
+text-align: center;
+/* centralizando os itens2*/
+margin: 15%;
+}
+button{
+background-color: pink;
+/*cor de fundo do botão adicionada*/
+/*cor das letras do botão adicionada*/
+color: black;
+}
+/*"etruturação do css"*/
+button:hover{
+    width: 18%;
+    height: 20%;
+    font-size: 20px;
+}
+/*"coloquei uma pre animaçao ao passar o mause por cima"*/
+section {
+    font-family: Arial;
+}
+/*"troquei as fontes"*/
+button {
+    -webkit-box-shadow: 6px 3px 12px 4px rgba(0, 0, 0, 0.53);
+    -moz-box-shadow: 6px 3px 12px 4px rgba(0, 0, 0, 0.53);
+    box-shadow: 6px 3px 12px 4px rgba(0, 0, 0, 0.53);
+    border-radius: 4px;
+}
+/*"coloquei uma sombra "*/
+h1 {
+    font-size: 30px;
+}
+/*"arrumei o titulo e a borda "*/
