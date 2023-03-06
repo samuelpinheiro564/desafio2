@@ -1,4 +1,4 @@
-
+/*class do article do cardápio*/
 .article {
     display: flex;
     margin: 1%;
@@ -6,12 +6,11 @@
     text-align: center;
 
 }
-
 p {
     margin: 2%;
     text-align: justify;
 }
-
+/*class responsável pelas imagens*/
 .img {
     border-radius: 0;
     border: none;
@@ -21,7 +20,7 @@ body {
     background-color: #9fd6ee;
 
 }
-
+/*sections responsável pelos itens do cardápio*/
 .oi {
     background-color: #f0e5dc;
     margin: 1%;
@@ -37,7 +36,7 @@ body {
 .oi:hover{
     transform: scale(1.05);
 }
-
+/*id responsável pel apromoção*/
 #promocao{
     background-color: #f0e5dc;
     display: flex;
@@ -47,7 +46,7 @@ body {
     
     
 }
-
+/*div pai da promoção*/
 #div {
     background-color: #f0e5dc;
     -webkit-box-shadow: 6px 3px 12px 4px rgba(0, 0, 0, 0.53);
@@ -56,7 +55,7 @@ body {
     border-left:  #f270b5 solid 10px;
 
 }
-
+/*div pai*/
 #div2 {
     text-align: center;
 }
