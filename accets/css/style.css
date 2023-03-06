@@ -1,3 +1,6 @@
+body {
+    text-align: justify;
+}
 /*separaçao das section em uma 2 por 3*/
 article  {
     display: flex;
@@ -69,6 +72,6 @@ img {
     border-radius: 50%;
     border: black solid 1px;
 }
-.coment,p, img {
+.coment, p , img {
     margin: 5px;
 }
