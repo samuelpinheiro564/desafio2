@@ -3,10 +3,10 @@ body {
 background-color: #e5b892;
 
 }
-section {
-margin: auto;
-display: flexS;
+article{
+/* centralizando os itens*/
 text-align: center;
+margin: 10%;
 }
 form {
 
