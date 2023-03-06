@@ -4,9 +4,10 @@ article  {
 }
 
 div {
-    background-color: aqua;
-    border: black solid;
-    border-radius: 12px;
+    background-color: #9fd6ee;
+    border: black solid 1px;
+    border-radius: 6px;
+
 }
 
 
