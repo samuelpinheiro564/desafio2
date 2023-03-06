@@ -1,5 +1,5 @@
 body {
-    background-color: #ffd4b1;
+    background-color: #9fd6ee;
     text-align: justify;
     margin: 0;
     padding: 0;
@@ -15,7 +15,7 @@ body {
 #enviar {
     width: 51%;
     padding: 5px;
-    background-color: #9fd6ee;
+    background-color: #585858;
 }
 
 #enviar:hover {
@@ -27,5 +27,24 @@ form {
     flex-direction: column;
     margin: auto;
     width: 70%
-
 }
+
+h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+
+label {
+    margin: 2px;
+    font-size: 20px;
+}
+
+iframe {
+    margin-bottom: -5px;
+}
+
+#div1 {
+    margin-left: 320px;
+}
+
