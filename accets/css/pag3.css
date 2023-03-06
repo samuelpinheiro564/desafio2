@@ -5,7 +5,7 @@ body {
     padding: 0;
 }
 
-#input1 {
+.input1 {
     display: flex;
     font-family: Arial, Helvetica, sans-serif;
     margin-bottom: 18px;
