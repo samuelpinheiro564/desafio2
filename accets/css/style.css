@@ -75,3 +75,7 @@ img {
 .coment, p , img {
     margin: 5px;
 }
+#footer5{
+    bottom: 0;
+    position: fixed;
+}
