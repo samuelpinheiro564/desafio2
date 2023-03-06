@@ -11,3 +11,21 @@ body {
     margin-bottom: 10px;
     width: 50%;
 }
+
+#enviar {
+    width: 51%;
+    padding: 5px;
+    background-color: #9fd6ee;
+}
+
+#enviar:hover {
+    transform: scale(1.1);
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 70%
+
+}
