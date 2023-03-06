@@ -31,4 +31,10 @@ button {
     -webkit-box-shadow: 6px 3px 12px 4px rgba(0, 0, 0, 0.53);
     -moz-box-shadow: 6px 3px 12px 4px rgba(0, 0, 0, 0.53);
     box-shadow: 6px 3px 12px 4px rgba(0, 0, 0, 0.53);
+    border-radius: 4px;
 }
+/*"coloquei uma sombra "*/
+h1 {
+    font-size: 30px;
+}
+/*"arrumei o titulo e a borda "*/
