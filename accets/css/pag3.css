@@ -1,0 +1,13 @@
+body {
+    background-color: #ffd4b1;
+    text-align: justify;
+    margin: 0;
+    padding: 0;
+}
+
+#input1 {
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 10px;
+    width: 50%;
+}
