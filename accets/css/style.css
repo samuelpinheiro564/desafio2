@@ -13,6 +13,9 @@ div {
     box-shadow: 6px 3px 12px 4px rgba(0, 0, 0, 0.53);
 
 }
+h5 {
+    color: gray
+}
 
 
 /*arrumando o css do titulo*/
@@ -34,7 +37,7 @@ div {
 .data {
     flex-direction: row;
     display: flex;
-    opacity:(0.2);
+
 }
 .names{
     border: none;
