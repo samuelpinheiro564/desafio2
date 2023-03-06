@@ -1,3 +1,69 @@
+
+.article {
+    display: flex;
+    margin: 1%;
+    margin-left: 1%;
+    text-align: center;
+
+}
+
+p {
+    margin: 2%;
+    text-align: justify;
+}
+
+.img {
+    
+}
+
+body {
+    background-color: #9fd6ee;
+
+}
+
+section {
+    background-color: #f0e5dc;
+    margin: 1%;
+    border-radius: 4%;
+    -webkit-box-shadow: 6px 3px 12px 4px rgba(0, 0, 0, 0.53);
+    -moz-box-shadow: 6px 3px 12px 4px rgba(0, 0, 0, 0.53);
+    box-shadow: 6px 3px 12px 4px rgba(0, 0, 0, 0.53);
+    border-left:  #f270b5 solid 10px;
+    width: 33%;
+    
+}
+
+section:hover{
+    transform: scale(1.05);
+}
+
+#promocao{
+    background-color: #f0e5dc;
+    display: flex;
+    text-align: justify;
+    width: 98%;
+   
+    
+    
+}
+
+#div {
+    background-color: #f0e5dc;
+    -webkit-box-shadow: 6px 3px 12px 4px rgba(0, 0, 0, 0.53);
+    -moz-box-shadow: 6px 3px 12px 4px rgba(0, 0, 0, 0.53);
+    box-shadow: 6px 3px 12px 4px rgba(0, 0, 0, 0.53);
+    border-left:  #f270b5 solid 10px;
+
+}
+
+#div2 {
+    text-align: center;
+}
+
+h2 {
+    text-align: left;
+}
+
 body {
     text-align: justify;
 }
@@ -83,3 +149,4 @@ img {
     bottom: 0;
     position: fixed;
 }
+
