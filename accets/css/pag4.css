@@ -1,8 +1,12 @@
 body {
+    /* adicionado cor de fundo*/
 background-color: #e5b892;
+
 }
 section {
-
+margin: auto;
+display: flexS;
+text-align: center;
 }
 form {
 
