@@ -6,6 +6,7 @@ article  {
 div {
     background-color: aqua;
     border: black solid;
+    border-radius: 12px;
 }
 
 
@@ -15,8 +16,6 @@ div {
     width: 33%;
     padding: 0;
     margin: 5px;
-    border: black solid;
-    background-color: white;
 }
 #tituloD {
     text-align: center;
@@ -32,9 +31,16 @@ div {
 .names{
     border: none;
     display: flex;
+    background-color: gray;
+    border: black solid 1px;
+    border-radius: 0;
+
 }
 .coment{
     border: none;
     display: flex;
     background-color: white;
+    border: black solid 1px;
+    border-radius: 0;
+
 }
