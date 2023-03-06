@@ -8,6 +8,7 @@ div {
     border: black solid;
 }
 
+
 /*arrumando o css do titulo*/
 /*criaçao das bordas*/
 .cards {
@@ -15,6 +16,7 @@ div {
     padding: 0;
     margin: 5px;
     border: black solid;
+    background-color: white;
 }
 #tituloD {
     text-align: center;
@@ -34,4 +36,5 @@ div {
 .coment{
     border: none;
     display: flex;
+    background-color: white;
 }
