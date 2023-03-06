@@ -1,6 +1,7 @@
 body {
     /* adicionado cor de fundo*/
 background-color: #e5b892;
+font-family: 'Franklin Gothic Medium';
 
 }
 article{
@@ -20,4 +21,8 @@ button:hover{
     width: 18%;
     height: 20%;
     font-size: 20px;
+}
+/*"coloquei uma pre animaçao ao passar o mause por cima"*/
+section {
+    font-family: Arial;
 }
