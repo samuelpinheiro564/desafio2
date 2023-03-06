@@ -2,3 +2,17 @@
 article  {
     display: flex;
 }
+
+div {
+    background-color: aqua;
+}
+
+/*arrumando o css do titulo*/
+.cards {
+    width: 33%;
+    padding: 0;
+    margin: 5px;
+}
+#tituloD {
+    text-align: center;
+}
