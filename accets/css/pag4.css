@@ -1,0 +1,49 @@
+body {
+    /* adicionado cor de fundo*/
+background-color: #9fd6ee;
+font-family: 'Franklin Gothic Medium';
+margin: 0;
+padding: 0;
+
+}
+article{
+/* centralizando os itens*/
+text-align: center;
+/* centralizando os itens2*/
+margin: 0;
+padding: 0;
+}
+button{
+background-color: pink;
+/*cor de fundo do botão adicionada*/
+/*cor das letras do botão adicionada*/
+color: black;
+}
+/*"etruturação do css"*/
+button:hover{
+    width: 25%;
+    height: 20%;
+    font-size: 20px;
+}
+/*"coloquei uma pre animaçao ao passar o mause por cima"*/
+section {
+    font-family: Arial;
+}
+/*"troquei as fontes"*/
+button {
+    -webkit-box-shadow: 6px 3px 12px 4px rgba(0, 0, 0, 0.53);
+    -moz-box-shadow: 6px 3px 12px 4px rgba(0, 0, 0, 0.53);
+    box-shadow: 6px 3px 12px 4px rgba(0, 0, 0, 0.53);
+    border-radius: 4px;
+}
+/*"coloquei uma sombra "*/
+h1 {
+    font-size: 30px;
+}
+/*"arrumei o titulo e a borda "*/
+/*"arrumei o footer"*/
+#iframefooter {
+    bottom: 0;
+    position: fixed;
+}
+

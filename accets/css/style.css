@@ -1,3 +1,4 @@
+
 .article {
     display: flex;
     margin: 1%;
@@ -62,3 +63,90 @@ section:hover{
 h2 {
     text-align: left;
 }
+
+body {
+    text-align: justify;
+}
+/*separaçao das section em uma 2 por 3*/
+article  {
+    display: flex;
+}
+
+.idprin {
+
+    background-color: #9fd6ee;
+    border: black solid 1px;
+    border-radius: 6px;
+    border-left: #f270b5 solid 10px;
+
+}
+h5 {
+    color: gray
+}
+
+
+/*arrumando o css do titulo*/
+/*criaçao das bordas*/
+/*id para os cards*/
+.cards {
+    width: 33%;
+    padding: 10px;
+    padding-bottom: 3%;
+    margin: 5px;
+    
+    
+}
+#tituloD {
+    text-align: center;
+}
+/*local para o nome para nao dar problema com a data de envio*/
+.nick {
+    margin: 5px;
+    padding: 10px;
+}
+/*local das datas de envio dos comentarios */
+.data {
+    flex-direction: row;
+    display: flex;
+
+/*parte de cima dos cards*/
+}
+.names{
+    border: none;
+    display: flex;
+    background-color: #dcbea5;
+    border: black solid 1px;
+    margin: 5px;
+    border-radius: 12px;
+    -webkit-box-shadow: 6px 3px 12px 4px rgba(0, 0, 0, 0.53);
+    -moz-box-shadow: 6px 3px 12px 4px rgba(0, 0, 0, 0.53);
+    box-shadow: 6px 3px 12px 4px rgba(0, 0, 0, 0.53);
+
+
+}
+/*parte de baixo dos cards*/
+.coment{
+    border: none;
+    display: flex;
+    background-color: #f0e5dc;
+    border: black solid 1px;
+    margin: 5px;
+    border-radius: 12px;
+    -webkit-box-shadow: 6px 3px 12px 4px rgba(0, 0, 0, 0.53);
+    -moz-box-shadow: 6px 3px 12px 4px rgba(0, 0, 0, 0.53);
+    box-shadow: 6px 3px 12px 4px rgba(0, 0, 0, 0.53);
+
+
+}
+img {
+    border-radius: 50%;
+    border: black solid 1px;
+}
+.coment, p , img {
+    margin: 5px;
+}
+#footer5{
+    bottom: 0;
+    position: fixed;
+}
+

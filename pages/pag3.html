@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<!--link com a pag3.css-->
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" href="../accets/css/pag3.css">
+</head>
+<!--corpo do página e conectado com o header-->
+
+<body>
+    <iframe src="../layouts/hearder.html" frameborder="0" width="100%"></iframe>
+
+    <div>
+        <h1>Deixe um comentário</h1>
+    </div>
+
+    <div id="div1">
+
+        <!--formulário incluindo nome, e-mail e comentário-->
+        <form action="./pag4.html">
+            <label for="">Nome:</label>
+            <input class="input1" type="text" placeholder="Digite seu nome" required>
+            <label for="">E-mail:</label>
+            <input class="input1" type="email" placeholder="Digite seu e-mail" required>
+            <label for="">Comentário:</label>
+            <input class="input1" type="text" placeholder="Digite seu comentário" maximum required="144">
+            <input id="enviar" type="submit">
+        </form>
+    </div>
+    <!--conectado com o footer-->
+    <iframe id="iframe1" src="../layouts/footer.html" frameborder="0" width="100%"></iframe>
+</body>
+
+</html>
